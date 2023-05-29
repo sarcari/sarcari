@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DarthArkion
+- 👋 Hi, I’m @sarcari
 - 👀 I’m interested in Cosmology and Astroparticle physics
 - 🌱 I’m currently learning machine learning techniques for cosmological parameters constraints
 - 📫 stefano.arcari@unife.it
